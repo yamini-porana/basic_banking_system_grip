@@ -10,4 +10,4 @@ The website has the following specs :-
 No Login Page, No user creation. Only Transfer of Money.
 Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
-Feel free to connect with me over Linkedin [Click here](https://www.linkedin.com/in/kshitij-agrawal-3a557814b).
+Feel free to connect with me over Linkedin [Click here](https://www.linkedin.com/in/porana-yamini-298a931b1/).
