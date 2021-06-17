@@ -1,6 +1,6 @@
 # GRIP-Task-1-Basic-Banking-System
 # Basic-Banking-System
-I have created virtual money transfer - basic banking system
+I have created a simple dynamic website of basic banking system.
 A web application used to transfer virtual money between multiple users and also record the banking transactions.
 The website has the following specs :-
 1. A dummy data for upto 10 customers
